@@ -6,10 +6,20 @@
     <description>Recent content in Posts on ALAN SHOW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Tue, 17 Mar 2020 17:32:25 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2020 20:48:50 +0800</lastBuildDate>
     
 	<atom:link href="https://cym2050.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>设计模式之单例模式</title>
+      <link>https://cym2050.github.io/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</link>
+      <pubDate>Wed, 18 Mar 2020 20:48:50 +0800</pubDate>
+      
+      <guid>https://cym2050.github.io/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</guid>
+      <description>单例模式，顾名思义就是只需要一个实例存在
+实现方法1：将构造方法设为private，使其创建实例时new不出来，在类内部创建一个对象，使用get方法返回</description>
+    </item>
     
     <item>
       <title>试试添加图片</title>
