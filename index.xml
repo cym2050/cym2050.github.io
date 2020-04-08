@@ -17,8 +17,7 @@
       <pubDate>Tue, 07 Apr 2020 19:15:13 +0800</pubDate>
       
       <guid>https://cym2050.github.io/posts/%E7%BB%88%E7%AB%AF%E5%BC%80%E5%90%AF%E4%BB%A3%E7%90%86/</guid>
-      <description>export http_proxy=&amp;quot;http://127.0.0.1:1080&amp;rdquo; export https_proxy=&amp;quot;http://127.0.0.1:1080&amp;rdquo;
-export all_proxy=&amp;quot;socks5://127.0.0.1:1086&amp;rdquo;</description>
+      <description>export http_proxy=&amp;quot;http://127.0.0.1:1080&amp;quot; export https_proxy=&amp;quot;http://127.0.0.1:1080&amp;quot; export all_proxy=&amp;quot;socks5://127.0.0.1:1086&amp;quot; </description>
     </item>
     
     <item>
