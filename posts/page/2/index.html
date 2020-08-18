@@ -117,23 +117,13 @@
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Posts</span>
     <h1 class="f3 near-black">
-      <a href="https://cym2050.github.io/posts/how-does-javascript-work/" class="link black dim">
-        How Does JavaScript Work？
+      <a href="https://cym2050.github.io/posts/%E6%9C%80%E5%A5%BDvim%E6%95%99%E7%A8%8B/" class="link black dim">
+        最好vim教程
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      在最基本的形式中，JavaScript是一种同步的、阻塞的、单线程的语言，在这种语言中，一次只能执行一个操作。但web浏览器定义了函数和API，允许我们当某些事件发生时不是按照同步方式，而是异步地调用函数(比如，时间的推移，用户通过鼠标的交互，或者获取网络数据)。这意味着您的代码可以同时做几件事情，而不需要停止或阻塞主线程。
-异步还是同步执行代码，取决于我们要做什么。
-有些时候，我们希望事情能够立即加载并发生。例如，当将一些用户定义的样式应用到一个页面时，您希望这些样式能够尽快被应用。
-但是，如果我们正在运行一个需要时间的操作，比如查询数据库并使用结果填充模板，那么最好将该操作从主线程中移开使用异步完成任务。随着时间的推移，您将了解何时选择异步技术比选择同步技术更有意义。
-单线程意味着只有一个call stack，所以一次只能做一件事情
-什么是程序  分配内存 解析并执行每一行代码  JavaScript引擎 每个浏览器都实现了JavaScript引擎，在Google chrome中是V8引擎读取并执行js代码。引擎由两个部分组成：memory heap和call stack
-memory heap是分配内存的地方,如下a,b,c存储在memory heap
-const a = 1; const b = 2; const c = [1, 2]; call stack是读取并执行代码的地方，如下一行一行读取并执行：
-console.log('1'); console.log('2'); console.log('3'); //result: 1 2 3 单线程阻塞情况 假设：
-function longtime () {发送http请求}; console.log('1'); longtime(); console.log('2'); console.log('3'); 其中longtime要花很长时间才能执行完毕，程序不就会阻塞在这里，用户界面会卡死掉吗？
-JavaScript运行时环境 JavaScript是单线程的，或者说JavaScript运行在单线程中，但JavaScript是工作在浏览器中的，而浏览器不只是JavaScript，其有以下线程：
- JavaScript引擎线程 GUI渲染线程 Event Loop线程（负责其他线程与主线程的通信，如网络IO，数据库IO，文件IO） 时间触发线程 定时器线程 网络请求线程 其次浏览器还提供了Web APIs（DOM，AJAX和 time　out），callback queue，event loop机制  参考：　event loop
+      我所知道的最好的Vim教程，在使用终端时随时可学习  Windows 使用Git Bash输入：  vimtutor macOS、Linux 在终端输入：  vimtutor内容预览  ======= 欢 迎 阅 读 《 V I M 教 程 》 —— 版本 1.7 ======
+  Vim 是一个具有很多命令的功能非常强大的编辑器。限于篇幅，在本教程当中就不详细介绍了。本教程的设计目标是讲述一些必要的基本命令，而掌握好这些命令，您就能够很容易地将 Vim 当作一个通用编辑器来使用了。完成本教程的内容大约需要25-30分钟，取决于您训练的时间。注意：每一节的命令操作将会更改本文。推荐您复制本文的一个副本，然后在副本上进行训练(如果您是通过&quot;vimtutor&quot;来启动教程的，那么本文就已经是副本了)。切记一点：本教程的设计思路是在使用中进行学习的。也就是说，您需要通过执行命令来学习它们本身的正确用法。如果您只是阅读而不操作，那么您可能会很快遗忘这些命令的！好了，现在请确定您的Shift-Lock(大小写锁定键)还没有按下，然后按键盘上的字母键 j 足够多次来移动光标，直到第一节的内容能够完全充满屏幕。 	第一讲第一节：移动光标** 要移动光标，请依照说明分别按下 h、j、k、l 键。 **^k	提示： h 的键位于左边，每次按下就会向左移动。&lt; h	l &gt;	l 的键位于右边，每次按下就会向右移动。j	j 键看起来很象一支尖端方向朝下的箭头。v1.
     </div>
   </div>
 </div>
@@ -143,31 +133,13 @@ JavaScript运行时环境 JavaScript是单线程的，或者说JavaScript运行�
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Posts</span>
     <h1 class="f3 near-black">
-      <a href="https://cym2050.github.io/posts/%E4%BB%80%E4%B9%88%E6%98%AFcdn/" class="link black dim">
-        什么是CDN
+      <a href="https://cym2050.github.io/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/" class="link black dim">
+        设计模式之单例模式
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      转载于：https://www.cloudflare.com/zh-cn/learning/cdn/what-is-a-cdn/
-什么是CDN？ 内容交付网络（CDN）是指一组在地理上分散的服务器，它们协同工作以提供互联网内容的快速交付。
-CDN允许快速转移加载互联网内容所需的资产，包括HTML页面、javascript 文件、样式表、图像和视频。 CDN服务的受欢迎程度持续增长。如今，大多数网页流量都通过CDN提供服务，包括来自Facebook、奈飞和亚马逊等主要网站的流量。
-正确配置的 CDN 还可帮助保护网站免受某些常见的恶意攻击，例如分布式拒绝服务（DDOS）攻击 。
-CDN是否与网络主机相同？ 虽然 CDN 不承载内容，也不能取代对适当网页托管的需求，但它确实有助于在网络边缘缓存内容，从而提高了网站性能。许多网站很难通过传统的主机服务满足其性能需求，这就是为什么他们选择 CDN 的原因。
-通过利用缓存来减少托管带宽， 帮助防止服务中断 ，以及提高安全性 ，CDN是为减轻传统网页托管所导致的一些主要痛点的流行选择。
-使用CDN有什么好处？ 尽管使用CDN的好处取决于互联网属性的大小和需求，但对于大多数用户而言，主要优势有以下四个不同的组成部分：
-缩短网站加载时间 – 通过使用附近的CDN服务器（以及其他优化措施），将内容分发到网站访问者附近，访问者将能体验到更快的页面加载时间。由于访问者更倾向于离开加载缓慢的网站，CDN 可以降低跳出率并增加人们在该网站上停留的时间。换句话说，网站速度越快，意味着更强的用户粘性。
-减少带宽成本 – 网站托管的带宽消耗成本是网站的主要费用。通过缓存和其他优化，CDN能够减少源站必须提供的数据量，从而降低网站所有者的托管成本。
-增加内容可用性和冗余 – 大流量或硬件故障可能会扰乱正常的网站功能。由于CDN具有分布式特性，因此与许多源站相比，CDN 可以更好地处理更多流量并承受硬件故障。
-改善网站安全性 – CDN可以通过提供 DDoS防护、安全证书的改进以及其他优化措施来提高安全性。
-CDN如何工作？ CDN的核心是连接在一起的服务器网络，其目标是尽可能快速、低价、可靠和安全地交付内容。为了提高速度和连接性，CDN会将服务器放置在不同网络之间的交换点。
-这些 互联网交换点（IXP）是不同互联网提供商连接的主要位置，以便彼此提供对来自其不同网络的流量的访问。通过连接到这些高速且高度互连的位置，CDN 提供商可以减少高速数据传递中的成本和传输时间。
-除了在 IXP 中放置服务器之外，CDN 还对标准客户端/服务器数据传输进行了诸多优化。 CDN 将数据中心放置在全球的战略位置，以增强安全性，并设计用于承受各种类型的故障和互联网拥塞。
-延迟 – CDN如何改善网站加载时间？ 关于网站加载内容，用户的耐心会随着网站速度变慢而快速下降。 CDN服务可以通过以下方式帮助减少加载时间：
-CDN 的全球分布意味着减少用户与网站资源之间的距离。 CDN 使得用户不必连接到网站源站的所在地，而可以连接到地理位置更近的数据中心 。更少的传输时间意味着更快的服务。
-硬件和软件优化，例如有效的负载均衡和固态硬盘驱动器，可以帮助数据更快地到达用户。
-CDN可以使用极简化和文件压缩之类的策略来减小文件大小，从而减少传输的数据量。较小的文件意味着更快的加载时间。
-CDN还可以通过优化连接重用和启用TLS假开始证书来加快使用 TLS / SSL 的站点。
-可靠性和冗余 – CDN如何使网站始终保持在线状态？ 对于拥有互联网资产的任何人来说，正常运行时间都是至关重要的组成部分。由于恶意攻击或流行性增加而导致的硬件故障和流量激增，有可能使网页服务器停机并阻止用户访问站点或服务。完善的 CDN 具有可最大程度减少停机时间的多项功能：
+      单例模式，顾名思义就是只需要一个实例存在
+实现方法1：将构造方法设为private，使其创建实例时new不出来，在类内部创建一个对象，使用get方法返回
     </div>
   </div>
 </div>
@@ -177,14 +149,12 @@ CDN还可以通过优化连接重用和启用TLS假开始证书来加快使用 T
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Posts</span>
     <h1 class="f3 near-black">
-      <a href="https://cym2050.github.io/posts/%E7%BB%88%E7%AB%AF%E5%BC%80%E5%90%AF%E4%BB%A3%E7%90%86/" class="link black dim">
-        终端开启代理
+      <a href="https://cym2050.github.io/posts/hogo%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/" class="link black dim">
+        Hogo问题记录
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      设置代理
-export http_proxy=&quot;http://127.0.0.1:1080&quot;export https_proxy=&quot;http://127.0.0.1:1080&quot;export all_proxy=&quot;socks5://127.0.0.1:1086&quot;取消代理
-unset http_proxyunset https_proxyunset all_proxy
+      生成静态文件，清理，压缩 hugo &ndash;gc &ndash;minify &ndash;cleanDestinationDir
     </div>
   </div>
 </div>
@@ -195,20 +165,20 @@ unset http_proxyunset https_proxyunset all_proxy
   <li class="page-item">
     <a href="/posts/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
   </li>
-  <li class="page-item disabled">
-    <a  class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
-  </li>
-  <li class="page-item active">
-    <a class="page-link" href="/posts/">1</a>
+  <li class="page-item">
+    <a href="/posts/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
   </li>
   <li class="page-item">
+    <a class="page-link" href="/posts/">1</a>
+  </li>
+  <li class="page-item active">
     <a class="page-link" href="/posts/page/2/">2</a>
   </li>
   <li class="page-item">
     <a class="page-link" href="/posts/page/3/">3</a>
   </li>
   <li class="page-item">
-    <a href="/posts/page/2/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+    <a href="/posts/page/3/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
   </li>
   <li class="page-item">
     <a href="/posts/page/3/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
