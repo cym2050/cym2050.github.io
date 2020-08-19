@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">果然</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-08-18T17:35:23&#43;08:00</updated>
+    <updated>2020-08-19T11:36:02&#43;08:00</updated>
     <id>https://cym2050.github.io/</id>
     <link rel="alternate" type="text/html" href="https://cym2050.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://cym2050.github.io/atom.xml" />
@@ -16,6 +16,72 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
+        <entry>
+            <title type="text">为git Bash设置socks5代理，加速GitHub Git Clone</title>
+            <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/%E4%B8%BAgit-bash%E8%AE%BE%E7%BD%AEsocks%E4%BB%A3%E7%90%86%E5%8A%A0%E9%80%9Fgithub-git-clone/" />
+            <id>https://cym2050.github.io/posts/%E4%B8%BAgit-bash%E8%AE%BE%E7%BD%AEsocks%E4%BB%A3%E7%90%86%E5%8A%A0%E9%80%9Fgithub-git-clone/</id>
+            <updated>2020-08-18T22:15:56&#43;08:00</updated>
+            <published>2020-08-18T18:23:08&#43;08:00</published>
+            <author>
+                    <name>CYM</name>
+                    <uri>https://cym2050.github.io/</uri>
+                    <email>cym2050@foxmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本文假设你已经有了一个 socks5 协议的代理了，也就是说已经有了代理的环境，且能顺利访问404……</summary>
+            
+                <content type="html">&lt;p&gt;本文假设你已经有了一个 socks5 协议的代理了，也就是说已经有了代理的环境，且能顺利访问404网站。&lt;/p&gt;
+&lt;p&gt;因为git bash是不走系统的代理的，所以需要单独配置。&lt;/p&gt;
+&lt;p&gt;要清楚你自己的socks代理地址与端口，通常为 127.0.0.1:1080。&lt;/p&gt;
+&lt;h2 id=&#34;一使用https-clone项目&#34;&gt;一、使用https clone项目&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;打开git bash依次输入这两条命令，输入之后会在.gitconfig文件内添加这两行配置&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git config --global http.proxy &#39;socks5://127.0.0.1:1080&#39;
+git config --global https.proxy &#39;socks5://127.0.0.1:1080&#39;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;这就配置好了，现在使用&lt;code&gt;git clone https://github.com/username/repo.git&lt;/code&gt;方式clone项目就应该很快了，具体与你代理速度有关&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;查看有没有设置成功用以下命令&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git config --get --global http.proxy
+git config --get --global https.proxy
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;取消代理设置用以上命令&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git config --global --unset http.proxy
+git config --global --unset https.proxy
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;二使用ssh-clone项目&#34;&gt;二、使用ssh clone项目&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;在你的.ssh文件夹（路径：C:\Users\n你的电脑用户名.ssh）添加一个config文件，就新建一个txt文本文件把名字改成config就行，没有后缀，然后把下面的代码复制粘贴，然后保存，记得把ip与端口改为你自己的。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Host github.com
+User git
+IdentityFile &amp;quot;C:\Users\Alan\.ssh\id_rsa&amp;quot;
+ProxyCommand connect.exe -S 127.0.0.1:1080 %h %p
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;上面代码里面由一个&lt;code&gt;connect.exe&lt;/code&gt;，这是一个命令行软件，把这个软件下载了后connect.exe文件放在上面说的.ssh文件夹内就行。&lt;br&gt;
+&lt;a href=&#34;https://bitbucket.org/gotoh/connect/downloads/&#34;&gt;connect下载地址&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;完成上面设置好后使用&lt;code&gt;git clone git@github.com:username/repo.git&lt;/code&gt;ssh方式clon应该就很快了&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">How Does JavaScript Work？</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/how-does-javascript-work/" />

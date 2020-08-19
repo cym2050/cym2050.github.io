@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cym2050.github.io/posts/how-does-javascript-work/</loc>
-    <lastmod>2020-08-08T18:48:01+08:00</lastmod>
+    <loc>https://cym2050.github.io/about/</loc>
+    <lastmod>2020-08-18T22:41:38+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://cym2050.github.io/posts/</loc>
-    <lastmod>2020-08-08T18:48:01+08:00</lastmod>
+    <lastmod>2020-08-18T22:15:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cym2050.github.io/posts/%E4%B8%BAgit-bash%E8%AE%BE%E7%BD%AEsocks%E4%BB%A3%E7%90%86%E5%8A%A0%E9%80%9Fgithub-git-clone/</loc>
+    <lastmod>2020-08-18T22:15:56+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://cym2050.github.io/</loc>
+    <lastmod>2020-08-18T22:15:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cym2050.github.io/posts/how-does-javascript-work/</loc>
     <lastmod>2020-08-08T18:48:01+08:00</lastmod>
   </url>
   
