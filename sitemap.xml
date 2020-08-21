@@ -3,177 +3,187 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cym2050.github.io/posts/css%E4%BA%94%E7%A7%8D%E7%BB%8F%E5%85%B8%E5%B8%83%E5%B1%80/</loc>
+    <loc>https://cym2050.github.io/tech/css%E4%BA%94%E7%A7%8D%E7%BB%8F%E5%85%B8%E5%B8%83%E5%B1%80/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/</loc>
+    <loc>https://cym2050.github.io/tech/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://cym2050.github.io/</loc>
-    <lastmod>2020-08-20T23:26:11+08:00</lastmod>
+    <lastmod>2020-08-21T12:35:21+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://cym2050.github.io/about/</loc>
+    <lastmod>2020-08-21T12:05:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cym2050.github.io/tech/%E4%B8%BAgit-bash%E8%AE%BE%E7%BD%AEsocks%E4%BB%A3%E7%90%86%E5%8A%A0%E9%80%9Fgithub-git-clone/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/%E4%B8%BAgit-bash%E8%AE%BE%E7%BD%AEsocks%E4%BB%A3%E7%90%86%E5%8A%A0%E9%80%9Fgithub-git-clone/</loc>
+    <loc>https://cym2050.github.io/tech/%E5%A5%BD%E6%96%87%E7%BF%BB%E8%AF%91/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/%E5%A5%BD%E6%96%87%E7%BF%BB%E8%AF%91/</loc>
+    <loc>https://cym2050.github.io/tech/redux/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/redux/</loc>
+    <loc>https://cym2050.github.io/tech/%E5%8F%AF%E8%A7%86%E5%8C%96%E6%90%AD%E5%BB%BA%E7%B3%BB%E7%BB%9F/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/%E5%8F%AF%E8%A7%86%E5%8C%96%E6%90%AD%E5%BB%BA%E7%B3%BB%E7%BB%9F/</loc>
+    <loc>https://cym2050.github.io/tech/react%E7%9A%84virtual-dom%E5%AF%B9%E4%BA%8E%E9%87%8D%E6%8E%92%E4%B8%8E%E9%87%8D%E7%BB%98%E7%9A%84%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/react%E7%9A%84virtual-dom%E5%AF%B9%E4%BA%8E%E9%87%8D%E6%8E%92%E4%B8%8E%E9%87%8D%E7%BB%98%E7%9A%84%E4%BC%98%E5%8C%96/</loc>
+    <loc>https://cym2050.github.io/tech/%E9%87%8D%E6%8E%92%E5%92%8C%E9%87%8D%E7%BB%98/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/%E9%87%8D%E6%8E%92%E5%92%8C%E9%87%8D%E7%BB%98/</loc>
+    <loc>https://cym2050.github.io/tech/react/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/react/</loc>
+    <loc>https://cym2050.github.io/tech/how-does-javascript-work/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/how-does-javascript-work/</loc>
+    <loc>https://cym2050.github.io/tech/%E5%80%BC%E4%BC%A0%E9%80%92%E4%B8%8E%E5%BC%95%E7%94%A8%E4%BC%A0%E9%80%92/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/%E5%80%BC%E4%BC%A0%E9%80%92%E4%B8%8E%E5%BC%95%E7%94%A8%E4%BC%A0%E9%80%92/</loc>
+    <loc>https://cym2050.github.io/tech/currying-and-compose/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/currying-and-compose/</loc>
+    <loc>https://cym2050.github.io/tech/dom-selecters/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/dom-selecters/</loc>
+    <loc>https://cym2050.github.io/tech/advanced-arrays/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/advanced-arrays/</loc>
+    <loc>https://cym2050.github.io/tech/wav-flac-ape/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/wav-flac-ape/</loc>
+    <loc>https://cym2050.github.io/life/</loc>
+    <lastmod>2020-08-21T12:35:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cym2050.github.io/life/%E6%B0%B4%E5%BA%93%E6%AC%A7%E7%A5%9E/</loc>
+    <lastmod>2020-08-21T12:35:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cym2050.github.io/tech/css-grid/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/css-grid/</loc>
+    <loc>https://cym2050.github.io/tech/%E4%BB%80%E4%B9%88%E6%98%AFcdn/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/%E4%BB%80%E4%B9%88%E6%98%AFcdn/</loc>
+    <loc>https://cym2050.github.io/tech/bootstrap/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/bootstrap/</loc>
+    <loc>https://cym2050.github.io/tech/%E5%89%8D%E7%AB%AF%E8%B5%84%E6%BA%90%E7%AB%99/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/%E5%89%8D%E7%AB%AF%E8%B5%84%E6%BA%90%E7%AB%99/</loc>
+    <loc>https://cym2050.github.io/tech/css/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/css/</loc>
+    <loc>https://cym2050.github.io/tech/%E6%9C%89%E5%85%B3%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%86%E5%8F%B2%E7%9A%84%E4%B8%89%E4%B8%AA%E8%A7%86%E9%A2%91/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/%E6%9C%89%E5%85%B3%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%86%E5%8F%B2%E7%9A%84%E4%B8%89%E4%B8%AA%E8%A7%86%E9%A2%91/</loc>
+    <loc>https://cym2050.github.io/tech/htmls-form/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/htmls-form/</loc>
+    <loc>https://cym2050.github.io/tech/w3c%E4%B8%8Emdn/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/w3c%E4%B8%8Emdn/</loc>
+    <loc>https://cym2050.github.io/tech/html/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/html/</loc>
+    <loc>https://cym2050.github.io/tech/%E4%BB%8E%E4%BD%A0%E8%BE%93%E5%85%A5%E4%B8%80%E4%B8%AA%E7%BD%91%E5%9D%80%E6%97%B6%E5%88%B0%E7%BD%91%E9%A1%B5%E5%91%88%E7%8E%B0%E5%9C%A8%E4%BD%A0%E9%9D%A2%E5%89%8D%E4%B8%AD%E9%97%B4%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/%E4%BB%8E%E4%BD%A0%E8%BE%93%E5%85%A5%E4%B8%80%E4%B8%AA%E7%BD%91%E5%9D%80%E6%97%B6%E5%88%B0%E7%BD%91%E9%A1%B5%E5%91%88%E7%8E%B0%E5%9C%A8%E4%BD%A0%E9%9D%A2%E5%89%8D%E4%B8%AD%E9%97%B4%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88/</loc>
+    <loc>https://cym2050.github.io/tech/homebrew%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/homebrew%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
+    <loc>https://cym2050.github.io/tech/%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86/</loc>
+    <loc>https://cym2050.github.io/tech/macos%E7%BB%88%E7%AB%AF%E5%BC%80%E5%90%AF%E4%BB%A3%E7%90%86/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/macos%E7%BB%88%E7%AB%AF%E5%BC%80%E5%90%AF%E4%BB%A3%E7%90%86/</loc>
+    <loc>https://cym2050.github.io/tech/%E6%9C%80%E5%A5%BDvim%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/%E6%9C%80%E5%A5%BDvim%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://cym2050.github.io/tech/hogo%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/hogo%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/</loc>
+    <loc>https://cym2050.github.io/tech/%E8%AF%95%E8%AF%95%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/%E8%AF%95%E8%AF%95%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87/</loc>
+    <loc>https://cym2050.github.io/tech/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cym2050.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2020-08-20T23:26:11+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cym2050.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</loc>
+    <loc>https://cym2050.github.io/tech/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</loc>
     <lastmod>2020-08-20T23:26:11+08:00</lastmod>
   </url>
   
