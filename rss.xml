@@ -23,10 +23,36 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 19 Aug 2020 15:52:05 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2020 23:34:30 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://cym2050.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Css五种经典布局</title>
+                <link>https://cym2050.github.io/posts/css%E4%BA%94%E7%A7%8D%E7%BB%8F%E5%85%B8%E5%B8%83%E5%B1%80/</link>
+                <guid isPermaLink="true">https://cym2050.github.io/posts/css%E4%BA%94%E7%A7%8D%E7%BB%8F%E5%85%B8%E5%B8%83%E5%B1%80/</guid>
+                <pubDate>Thu, 20 Aug 2020 21:30:02 &#43;0800</pubDate>
+                
+                    <author>cym2050@foxmail.com (CYM)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;布局看这个基本上就可以了：&lt;br&gt;
+&lt;a href=&#34;http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html&#34;&gt;http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html&lt;/a&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>为git Bash设置socks5代理，加速GitHub Git Clone</title>

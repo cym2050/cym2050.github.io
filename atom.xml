@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">果然</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-08-19T15:52:05&#43;08:00</updated>
+    <updated>2020-08-20T23:34:30&#43;08:00</updated>
     <id>https://cym2050.github.io/</id>
     <link rel="alternate" type="text/html" href="https://cym2050.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://cym2050.github.io/atom.xml" />
@@ -17,10 +17,39 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
         <entry>
+            <title type="text">Css五种经典布局</title>
+            <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/css%E4%BA%94%E7%A7%8D%E7%BB%8F%E5%85%B8%E5%B8%83%E5%B1%80/" />
+            <id>https://cym2050.github.io/posts/css%E4%BA%94%E7%A7%8D%E7%BB%8F%E5%85%B8%E5%B8%83%E5%B1%80/</id>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
+            <published>2020-08-20T21:30:02&#43;08:00</published>
+            <author>
+                    <name>CYM</name>
+                    <uri>https://cym2050.github.io/</uri>
+                    <email>cym2050@foxmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">布局看这个基本上就可以了： http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html</summary>
+            
+                <content type="html">&lt;p&gt;布局看这个基本上就可以了：&lt;br&gt;
+&lt;a href=&#34;http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html&#34;&gt;http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html&lt;/a&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">为git Bash设置socks5代理，加速GitHub Git Clone</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/%E4%B8%BAgit-bash%E8%AE%BE%E7%BD%AEsocks%E4%BB%A3%E7%90%86%E5%8A%A0%E9%80%9Fgithub-git-clone/" />
             <id>https://cym2050.github.io/posts/%E4%B8%BAgit-bash%E8%AE%BE%E7%BD%AEsocks%E4%BB%A3%E7%90%86%E5%8A%A0%E9%80%9Fgithub-git-clone/</id>
-            <updated>2020-08-18T22:15:56&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-18T18:23:08&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -86,7 +115,7 @@ ProxyCommand connect.exe -S 127.0.0.1:1080 %h %p
             <title type="text">好文翻译</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/%E5%A5%BD%E6%96%87%E7%BF%BB%E8%AF%91/" />
             <id>https://cym2050.github.io/posts/%E5%A5%BD%E6%96%87%E7%BF%BB%E8%AF%91/</id>
-            <updated>2020-08-19T15:48:32&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-12T17:51:48&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -113,7 +142,7 @@ ProxyCommand connect.exe -S 127.0.0.1:1080 %h %p
             <title type="text">Redux</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/redux/" />
             <id>https://cym2050.github.io/posts/redux/</id>
-            <updated>2020-08-19T15:47:54&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-11T22:37:02&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -147,7 +176,7 @@ Redux 本身是一个很轻的库，解决 component -&amp;gt; action -&amp;gt; 
             <title type="text">可视化搭建系统</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/%E5%8F%AF%E8%A7%86%E5%8C%96%E6%90%AD%E5%BB%BA%E7%B3%BB%E7%BB%9F/" />
             <id>https://cym2050.github.io/posts/%E5%8F%AF%E8%A7%86%E5%8C%96%E6%90%AD%E5%BB%BA%E7%B3%BB%E7%BB%9F/</id>
-            <updated>2020-08-19T15:48:13&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-08T19:16:09&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -176,7 +205,7 @@ Redux 本身是一个很轻的库，解决 component -&amp;gt; action -&amp;gt; 
             <title type="text">React的virtual Dom对于重排与重绘的优化</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/react%E7%9A%84virtual-dom%E5%AF%B9%E4%BA%8E%E9%87%8D%E6%8E%92%E4%B8%8E%E9%87%8D%E7%BB%98%E7%9A%84%E4%BC%98%E5%8C%96/" />
             <id>https://cym2050.github.io/posts/react%E7%9A%84virtual-dom%E5%AF%B9%E4%BA%8E%E9%87%8D%E6%8E%92%E4%B8%8E%E9%87%8D%E7%BB%98%E7%9A%84%E4%BC%98%E5%8C%96/</id>
-            <updated>2020-08-19T15:46:53&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-08T15:36:51&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -239,7 +268,7 @@ old.parentNode.replaceChild(clone, old);
             <title type="text">重排和重绘</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/%E9%87%8D%E6%8E%92%E5%92%8C%E9%87%8D%E7%BB%98/" />
             <id>https://cym2050.github.io/posts/%E9%87%8D%E6%8E%92%E5%92%8C%E9%87%8D%E7%BB%98/</id>
-            <updated>2020-08-19T15:45:01&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-08T13:07:19&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -411,7 +440,7 @@ if(current&amp;gt;=500){
             <title type="text">React</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/react/" />
             <id>https://cym2050.github.io/posts/react/</id>
-            <updated>2020-08-19T15:40:20&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-08T11:10:46&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -445,7 +474,7 @@ setState不会立即更新state值，执行到shouldComponentUpdate，对比前�
             <title type="text">How Does JavaScript Work？</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/how-does-javascript-work/" />
             <id>https://cym2050.github.io/posts/how-does-javascript-work/</id>
-            <updated>2020-08-19T15:37:55&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-07T22:03:02&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -518,7 +547,7 @@ console.log(&#39;3&#39;);
             <title type="text">值传递与引用传递</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/%E5%80%BC%E4%BC%A0%E9%80%92%E4%B8%8E%E5%BC%95%E7%94%A8%E4%BC%A0%E9%80%92/" />
             <id>https://cym2050.github.io/posts/%E5%80%BC%E4%BC%A0%E9%80%92%E4%B8%8E%E5%BC%95%E7%94%A8%E4%BC%A0%E9%80%92/</id>
-            <updated>2020-08-19T15:37:06&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-07T20:27:47&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -566,7 +595,7 @@ let superClone = JSON.parse(JSON.stringify(obj))
             <title type="text">Currying and Compose</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/currying-and-compose/" />
             <id>https://cym2050.github.io/posts/currying-and-compose/</id>
-            <updated>2020-08-19T15:36:01&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-07T18:07:14&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -604,7 +633,7 @@ compose(sum, sum)(5); 结果为7
             <title type="text">DOM Selecters</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/dom-selecters/" />
             <id>https://cym2050.github.io/posts/dom-selecters/</id>
-            <updated>2020-08-19T15:35:01&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-06T23:06:24&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -667,7 +696,7 @@ children&lt;/p&gt;
             <title type="text">Advanced Arrays</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/advanced-arrays/" />
             <id>https://cym2050.github.io/posts/advanced-arrays/</id>
-            <updated>2020-08-19T15:31:25&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-06T21:53:29&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -708,7 +737,7 @@ array.forEach((num) =&amp;gt; {
             <title type="text">WAV FLAC APE</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/wav-flac-ape/" />
             <id>https://cym2050.github.io/posts/wav-flac-ape/</id>
-            <updated>2020-08-19T15:26:47&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-05T22:30:44&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -738,7 +767,7 @@ array.forEach((num) =&amp;gt; {
             <title type="text">CSS Grid</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/css-grid/" />
             <id>https://cym2050.github.io/posts/css-grid/</id>
-            <updated>2020-08-19T15:25:02&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-04T20:45:28&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -834,7 +863,7 @@ container {
             <title type="text">什么是CDN</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/%E4%BB%80%E4%B9%88%E6%98%AFcdn/" />
             <id>https://cym2050.github.io/posts/%E4%BB%80%E4%B9%88%E6%98%AFcdn/</id>
-            <updated>2020-08-04T18:23:41&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-04T18:17:15&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -892,7 +921,7 @@ container {
             <title type="text">Bootstrap</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/bootstrap/" />
             <id>https://cym2050.github.io/posts/bootstrap/</id>
-            <updated>2020-08-19T15:22:52&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-04T00:13:45&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -929,7 +958,7 @@ container {
             <title type="text">前端资源站</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/%E5%89%8D%E7%AB%AF%E8%B5%84%E6%BA%90%E7%AB%99/" />
             <id>https://cym2050.github.io/posts/%E5%89%8D%E7%AB%AF%E8%B5%84%E6%BA%90%E7%AB%99/</id>
-            <updated>2020-08-19T15:21:06&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-03T23:23:53&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -957,7 +986,7 @@ container {
             <title type="text">CSS</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/css/" />
             <id>https://cym2050.github.io/posts/css/</id>
-            <updated>2020-08-19T15:17:52&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-03T17:43:58&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -1032,7 +1061,7 @@ animation&lt;/li&gt;
             <title type="text">有关互联网历史的三个视频</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/%E6%9C%89%E5%85%B3%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%86%E5%8F%B2%E7%9A%84%E4%B8%89%E4%B8%AA%E8%A7%86%E9%A2%91/" />
             <id>https://cym2050.github.io/posts/%E6%9C%89%E5%85%B3%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%86%E5%8F%B2%E7%9A%84%E4%B8%89%E4%B8%AA%E8%A7%86%E9%A2%91/</id>
-            <updated>2020-08-19T15:13:37&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-03T17:20:29&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -1062,7 +1091,7 @@ animation&lt;/li&gt;
             <title type="text">HTML&#39;s Form</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/htmls-form/" />
             <id>https://cym2050.github.io/posts/htmls-form/</id>
-            <updated>2020-08-19T15:13:01&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-02T23:55:03&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -1110,7 +1139,7 @@ animation&lt;/li&gt;
             <title type="text">W3C与MDN</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/w3c%E4%B8%8Emdn/" />
             <id>https://cym2050.github.io/posts/w3c%E4%B8%8Emdn/</id>
-            <updated>2020-08-19T15:12:20&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-08-01T10:43:59&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -1146,7 +1175,7 @@ animation&lt;/li&gt;
             <title type="text">HTML</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/html/" />
             <id>https://cym2050.github.io/posts/html/</id>
-            <updated>2020-08-19T15:11:42&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-07-31T22:12:44&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -1196,7 +1225,7 @@ a、form、input、button、h1、p、ul、ol、small、strong、div、kbd、vide
             <title type="text">从你输入一个网址时到网页呈现在你面前，中间发生了什么？</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/%E4%BB%8E%E4%BD%A0%E8%BE%93%E5%85%A5%E4%B8%80%E4%B8%AA%E7%BD%91%E5%9D%80%E6%97%B6%E5%88%B0%E7%BD%91%E9%A1%B5%E5%91%88%E7%8E%B0%E5%9C%A8%E4%BD%A0%E9%9D%A2%E5%89%8D%E4%B8%AD%E9%97%B4%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88/" />
             <id>https://cym2050.github.io/posts/%E4%BB%8E%E4%BD%A0%E8%BE%93%E5%85%A5%E4%B8%80%E4%B8%AA%E7%BD%91%E5%9D%80%E6%97%B6%E5%88%B0%E7%BD%91%E9%A1%B5%E5%91%88%E7%8E%B0%E5%9C%A8%E4%BD%A0%E9%9D%A2%E5%89%8D%E4%B8%AD%E9%97%B4%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88/</id>
-            <updated>2020-08-19T15:03:00&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-04-10T22:55:08&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -1236,7 +1265,7 @@ a、form、input、button、h1、p、ul、ol、small、strong、div、kbd、vide
             <title type="text">homebrew常用命令</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/homebrew%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/" />
             <id>https://cym2050.github.io/posts/homebrew%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</id>
-            <updated>2020-08-19T14:50:25&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-04-08T19:50:32&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -1276,7 +1305,7 @@ cleanup&lt;/p&gt;
             <title type="text">网络代理</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86/" />
             <id>https://cym2050.github.io/posts/%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86/</id>
-            <updated>2020-08-19T14:49:18&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-04-08T17:23:27&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -1306,7 +1335,7 @@ cleanup&lt;/p&gt;
             <title type="text">macOS终端开启代理</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/macos%E7%BB%88%E7%AB%AF%E5%BC%80%E5%90%AF%E4%BB%A3%E7%90%86/" />
             <id>https://cym2050.github.io/posts/macos%E7%BB%88%E7%AB%AF%E5%BC%80%E5%90%AF%E4%BB%A3%E7%90%86/</id>
-            <updated>2020-08-19T14:36:03&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-04-07T19:15:13&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -1342,7 +1371,7 @@ unset all_proxy
             <title type="text">最好vim教程</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/%E6%9C%80%E5%A5%BDvim%E6%95%99%E7%A8%8B/" />
             <id>https://cym2050.github.io/posts/%E6%9C%80%E5%A5%BDvim%E6%95%99%E7%A8%8B/</id>
-            <updated>2020-08-19T14:29:26&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-04-07T16:54:22&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -2371,7 +2400,7 @@ unset all_proxy
             <title type="text">Hogo问题记录</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/hogo%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/" />
             <id>https://cym2050.github.io/posts/hogo%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/</id>
-            <updated>2020-08-07T13:48:53&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-03-18T17:32:25&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -2400,7 +2429,7 @@ hugo --gc --minify --cleanDestinationDir&lt;/p&gt;
             <title type="text">试试添加图片</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/%E8%AF%95%E8%AF%95%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87/" />
             <id>https://cym2050.github.io/posts/%E8%AF%95%E8%AF%95%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87/</id>
-            <updated>2020-08-19T14:24:27&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-03-17T17:32:25&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -2432,7 +2461,7 @@ hugo --gc --minify --cleanDestinationDir&lt;/p&gt;
             <title type="text">第二篇博客</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/" />
             <id>https://cym2050.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
-            <updated>2020-07-31T21:53:43&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-03-17T15:18:10&#43;08:00</published>
             <author>
                     <name>CYM</name>
@@ -2460,7 +2489,7 @@ hugo --gc --minify --cleanDestinationDir&lt;/p&gt;
             <title type="text">开博大吉</title>
             <link rel="alternate" type="text/html" href="https://cym2050.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/" />
             <id>https://cym2050.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</id>
-            <updated>2020-08-08T00:12:22&#43;08:00</updated>
+            <updated>2020-08-20T23:26:11&#43;08:00</updated>
             <published>2020-03-17T14:19:03&#43;08:00</published>
             <author>
                     <name>CYM</name>
